@@ -28,8 +28,8 @@ This repository hosts the centralized backend for all "April Vibe Coding" web ex
 ### Installation
 1.  Clone the repo:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/april-vibe-backend.git
-    cd april-vibe-backend/functions
+    git clone https://github.com/Barrsum/Master-AI-Proxy-cloud-function
+    cd Master-AI-Proxy-cloud-function
     npm install
     ```
 
@@ -38,6 +38,8 @@ This repository hosts the centralized backend for all "April Vibe Coding" web ex
     firebase functions:secrets:set NVIDIA_DEMO_PROJECTS_API
     # Paste your key when prompted
     ```
+
+    To generate your Nvidia API Key check readme.md of [Coming soon...](https://www.linkedin.com/in/ram-bapat-barrsum-diamos)
 
 3.  Deploy:
     ```bash
@@ -71,3 +73,5 @@ The API returns these headers so the frontend can show the user their status:
 
 ---
 *Built for the April 30-Day Vibe Coding Challenge.*
+
+Built by Ram Bapat - Challenge [\#30DaysOfVibeCoding](https://www.linkedin.com/posts/ram-bapat-barrsum-diamos_vibecoding-ai-machinelearning-activity-7312839191153860608-wQ8y) - [LinkedIn Profile](https://www.linkedin.com/in/ram-bapat-barrsum-diamos)
